@@ -1,0 +1,15 @@
+.q-card-wrapper {
+  background-color: rgb(60, 60, 217);
+  width: fit-content;
+  padding: 10px;
+  border-radius: 6px;
+  color: white;
+
+  & .title {
+    font-size: 48px;
+  }
+}
+
+.foo {
+  color: yellow;
+}
